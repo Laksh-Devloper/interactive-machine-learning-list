@@ -1,8 +1,11 @@
-# interactive-machine-learning-list
+# Interactive-machine-learning-list
 
 A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites.
 Started by [Piotr Migdał](https://p.migdal.pl/), but anyone is encouraged to contribute!
 It is a simple no-build Vue.js website:
+
+This List Contains A List Of Many Intera tive Ites. and also Machine Learning Basics
+And Advanced. Feel Free To Read and Learn Courses.
 
 * [p.migdal.pl/interactive-machine-learning-list/](https://p.migdal.pl/interactive-machine-learning-list/)
 
